@@ -1,0 +1,12 @@
+README.md
+setup.py
+ai_stock_chart.egg-info/PKG-INFO
+ai_stock_chart.egg-info/SOURCES.txt
+ai_stock_chart.egg-info/dependency_links.txt
+ai_stock_chart.egg-info/requires.txt
+ai_stock_chart.egg-info/top_level.txt
+backend/__init__.py
+backend/ai_controller.py
+backend/app.py
+backend/data_handler.py
+backend/models.py
